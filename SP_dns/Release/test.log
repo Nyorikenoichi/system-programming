@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: Свойству "IntermediateOutputPath" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(29,5): warning MSB4211: Свойству "DebugType" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (28,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(370,5): warning MSB4211: Свойству "CleanFile" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+  dns.c
+C:\Users\max\source\repos\SP_dns\dns.c(49,42): warning C4133: =: несовместимые типы - из "Pair *" в "Vertex *"
+C:\Users\max\source\repos\SP_dns\dns.c(64,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\max\source\repos\SP_dns\dns.c(87,44): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char *[201]"
+C:\Users\max\source\repos\SP_dns\dns.c(87,33): warning C4024: strcmp: различные типы для формального и фактического параметров 1
+C:\Users\max\source\repos\SP_dns\dns.c(89,27): warning C4133: =: несовместимые типы - из "Vertex *" в "Vertex *"
+  Создание кода
+  0 of 19 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  test.vcxproj -> C:\Users\max\source\repos\SP_dns\Release\test.exe
